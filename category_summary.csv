@@ -1,0 +1,6 @@
+product_category,total_orders,total_units_sold,gross_revenue_inr,net_revenue_inr,total_profit_inr,avg_order_value_inr,profit_margin_pct
+Electronics,8,60,169945.28,126548.46,3719.78,15818.56,2.9
+Home & Kitchen,7,103,122597.08,106337.65,19629.65,15191.09,18.5
+Grocery,5,38,107718.45,95202.13,8913.96,19040.43,9.4
+Beauty,5,24,65713.24,55825.97,20119.96,11165.19,36.0
+Fashion,3,18,48648.18,40214.56,10303.18,13404.85,25.6
